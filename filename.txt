@@ -1,0 +1,3 @@
+Deep Learning UAB
+
+All exercises from the Neural Networks and Deep Learning course in my AI degree.
